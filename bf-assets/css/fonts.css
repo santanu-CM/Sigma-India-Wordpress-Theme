@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Bold.svg#SigmaSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Regular.svg#SigmaSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSans-Medium.svg#SigmaSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Headline';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Headline.svg#SigmaSerif-Headline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Text';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-Text.svg#SigmaSerif-Text') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Text';
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.eot');
+    src: url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.eot?#iefix') format('embedded-opentype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.woff2') format('woff2'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.woff') format('woff'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.ttf') format('truetype'),
+        url('/wp-content/themes/sigmaindia/bf-assets/fonts/SigmaSerif-TextBold.svg#SigmaSerif-TextBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

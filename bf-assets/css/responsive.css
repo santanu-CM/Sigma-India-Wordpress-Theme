@@ -1,0 +1,54 @@
+@media(max-width:1200px){
+.navbar__top{box-shadow:none;}
+.navbar__top .nav__info__right{margin-left:auto; margin-right:0px;}
+.navbar__top .navbar-toggler{margin-right:0px; margin-left:0px; padding:0px; height:100%; border:0px; color:var(--link-color); font-size:13rem; font-family:var(--font-family-sigma); font-size:var(--link-font-size); font-weight:var(--link-font-weight); text-transform:var(--link-text-transform); letter-spacing:var(--link-letter-spacing);}
+.navbar .navbar-collapse{height:100%;}
+.navbar .navbar-collapse{position:fixed; right:-100%; background:#fefefd; height:100%; top:0px; z-index:5;
+-webkit-transition:right .3s ease 0s; -moz-transition:right .3s ease 0s; -o-transition:right .3s ease 0s; transition:right .3s ease 0s;}
+.header__bar{height:var(--header-height); display:flex; align-items:center; justify-content:space-between; padding:0 var(--spacing-16);}
+.header__bar .navbar__toggler__btn{margin-right:0px; margin-left:0px; padding:0px; height:22px; border:0px; color:var(--link-color); font-size:13rem; font-family:var(--font-family-sigma); font-size:var(--link-font-size); font-weight:var(--link-font-weight); text-transform:var(--link-text-transform); letter-spacing:var(--link-letter-spacing); background-color:transparent;}
+.navbar .show{right:0px; width:100%; transition:right .3s ease 0s;}
+.navbar__top .navbar__nav{height:unset; justify-content:unset; padding-top:var(--spacing-48); padding-bottom:var(--spacing-08);}
+.navbar__top .navbar__nav li{margin:0px 0px !important; display:block;}
+.navbar__top .navbar__nav li a{color:var(--link-color); padding:var(--spacing-08) var(--spacing-16); display:block; width:100%; border-bottom:0px;  height:auto; font-family:'Sigma Serif Text'; font-size:16rem;}
+.navbar__top .navbar__nav li a:hover{color:#fff;}
+.navbar__top .navbar__nav li a:after{display:none;}
+.navbar__top .navbar__nav li a .icon__box{width:15px; height:15px; position:absolute; top:0px; bottom:0px; margin:auto 0px; right:0px; display:flex;}
+.navbar__top .navbar__nav li a .icon__box:before{height:100%; width:100%; margin:auto; transition:all .3s ease-in-out; background-image:url(../assets/images/menu-angle-down.svg); background-repeat:no-repeat; background-position:center; background-size:15px; content:'';}
+.navbar__top .navbar__nav li a.show .icon__box:before{transform:rotate(180deg);}
+.navbar__top .navbar__nav li.dropdown__wrap ul.show{display:block !important; background-color:transparent; min-width:unset; width:100%; border:0px; border-radius:0px; gap: var(--spacing-04); padding:var(--spacing-16) var(--spacing-16);} 
+.navbar__top .navbar__nav li.dropdown__wrap:hover ul.dropdown__menu{display:none;}
+.navbar__top .navbar__nav li.dropdown__wrap ul.dropdown__menu li{padding:0px; margin:0px;}
+.navbar__top .navbar__nav li.dropdown__wrap ul.dropdown__menu li a{background-color:transparent; padding:0px; border:0px; font-size:13rem; font-family:var(--font-family-sigma); font-size:var(--link-font-size); font-weight:var(--link-font-weight); text-transform:var(--link-text-transform); letter-spacing:var(--link-letter-spacing);}
+.navbar__top .navbar__nav li.dropdown__wrap ul.dropdown__menu li a:focus{outline:0px; box-shadow:none;}
+.navbar__top .navbar__nav li.dropdown__wrap ul.dropdown__menu li a:after{display:none;}
+.navbar__top .nav__info__right .user__info{display:none;}
+.nav__items__small__device{display:flex; padding:0 var(--spacing-16) var(--spacing-08);}
+.nav__items__small__device a{font-family: 'Sigma Serif Text'; font-size: 16rem; text-transform:var(--font-case-base);}
+
+.main__banner .bannre__content .bannre__content__inner__wrapp h1{font-size:36rem;}
+.large__block{padding-top: var(--spacing-96);}
+.heading__wrap h2{font-size:36rem;}
+.heading__wrap h2 br{display:none;}
+.large__panel__grid{flex-direction:column;}
+.content__card{width:100%;}
+.large__block__color__bg{padding-top:var(--spacing-64)}
+.product__pec__block__tab{position:unset; padding-bottom:0;}
+.txt__card{gap:0;}
+.txt__card ul{padding-top:var(--spacing-64);}
+
+.modal__dialog{height:auto;}
+.modal__main .modal__content{padding: var(--spacing-16) var(--spacing-16);}
+.modal__main .modal__content .modal__body h4{font-size:18rem; margin-bottom:var(--spacing-12);}
+.modal__main .modal__content .modal__body p{margin-bottom:var(--spacing-24);}
+
+	
+.footer__menu{flex-direction:column; margin-top:var(--spacing-96);}
+.footer__nav{display:flex; width:100%; align-items:flex-start; margin-top: var(--spacing-32);}
+.footer__nav p{flex:1;}
+.footer__nav .footer__nav__list{flex:1; margin-top:0px;}
+
+.footer__copy{margin-top: var(--spacing-96);}
+}
+
+

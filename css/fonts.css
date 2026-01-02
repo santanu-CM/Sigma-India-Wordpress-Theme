@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('../fonts/SigmaSans-Bold.eot');
+    src: url('../fonts/SigmaSans-Bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SigmaSans-Bold.woff2') format('woff2'),
+         url('../fonts/SigmaSans-Bold.woff') format('woff'),
+         url('../fonts/SigmaSans-Bold.ttf')  format('truetype'),
+         url('../fonts/SigmaSans-Bold.svg#Sigma Sans') format('svg');
+}
+
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('../fonts/SigmaSans-Regular.eot');
+    src: url('../fonts/SigmaSans-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/SigmaSans-Regular.woff2') format('woff2'),
+         url('../fonts/SigmaSans-Regular.woff') format('woff'),
+         url('../fonts/SigmaSans-Regular.ttf')  format('truetype'),
+         url('../fonts/SigmaSans-Regular.svg#Sigma Sans') format('svg');
+}
+
+
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('../fonts/SigmaSans-Medium.eot');
+    src: url('../fonts/SigmaSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSans-Medium.woff2') format('woff2'),
+        url('../fonts/SigmaSans-Medium.woff') format('woff'),
+        url('../fonts/SigmaSans-Medium.ttf') format('truetype'),
+        url('../fonts/SigmaSans-Medium.svg#SigmaSans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Sans';
+    src: url('../fonts/SigmaSans-RegularItalic.eot');
+    src: url('../fonts/SigmaSans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSans-RegularItalic.woff2') format('woff2'),
+        url('../fonts/SigmaSans-RegularItalic.woff') format('woff'),
+        url('../fonts/SigmaSans-RegularItalic.ttf') format('truetype'),
+        url('../fonts/SigmaSans-RegularItalic.svg#SigmaSans-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Headline';
+    src: url('../fonts/SigmaSerif-Headline.eot');
+    src: url('../fonts/SigmaSerif-Headline.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSerif-Headline.woff2') format('woff2'),
+        url('../fonts/SigmaSerif-Headline.woff') format('woff'),
+        url('../fonts/SigmaSerif-Headline.ttf') format('truetype'),
+        url('../fonts/SigmaSerif-Headline.svg#SigmaSerif-Headline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Text';
+    src: url('../fonts/SigmaSerif-Text.eot');
+    src: url('../fonts/SigmaSerif-Text.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSerif-Text.woff2') format('woff2'),
+        url('../fonts/SigmaSerif-Text.woff') format('woff'),
+        url('../fonts/SigmaSerif-Text.ttf') format('truetype'),
+        url('../fonts/SigmaSerif-Text.svg#SigmaSerif-Text') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Text';
+    src: url('../fonts/SigmaSerif-TextBold.eot');
+    src: url('../fonts/SigmaSerif-TextBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSerif-TextBold.woff2') format('woff2'),
+        url('../fonts/SigmaSerif-TextBold.woff') format('woff'),
+        url('../fonts/SigmaSerif-TextBold.ttf') format('truetype'),
+        url('../fonts/SigmaSerif-TextBold.svg#SigmaSerif-TextBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sigma Serif Text';
+    src: url('../fonts/SigmaSerif-TextItalic.eot');
+    src: url('../fonts/SigmaSerif-TextItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SigmaSerif-TextItalic.woff2') format('woff2'),
+        url('../fonts/SigmaSerif-TextItalic.woff') format('woff'),
+        url('../fonts/SigmaSerif-TextItalic.ttf') format('truetype'),
+        url('../fonts/SigmaSerif-TextItalic.svg#SigmaSerif-TextItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}

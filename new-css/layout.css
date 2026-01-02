@@ -1,0 +1,68 @@
+:root {
+--font-color-base: #333;
+--font-color-base-white:#fff;
+--font-color-secondary: rgba(51, 51, 51, 0.7);
+--font-color-disabled: #999; 
+--font-family-sigma: 'Sigma Sans';
+--spacing-02: 2rem;
+--spacing-04: 4rem;
+--spacing-08: 8rem;
+--spacing-12: 12rem;
+--spacing-16: 16rem;
+--spacing-20: 20rem;
+--spacing-24: 24rem;
+--spacing-32: 32rem;
+--spacing-40: 40rem;
+--spacing-48: 48rem;
+--spacing-56: 56rem;
+--spacing-64: 64rem;
+--spacing-72: 72rem;
+--spacing-80: 80rem;
+--spacing-88: 88rem;
+--spacing-96: 96rem;
+--spacing-120: 120rem;
+--spacing-140: 140rem;
+--spacing-160: 160rem;
+--spacing-200: 200rem;
+--link-color: #363636;
+--link-font-size: 13rem;
+--link-letter-spacing: 0.26rem;
+--link-text-transform: uppercase;
+--link-font-weight: 400;
+--letter-spacing: 0.26rem;
+--back-color-off-white: #fefefd;
+--back-color-sand: #FAF8F2;
+--back-color-pale: #e6e2dc;
+--header-height: 48rem;
+--heading-text-font-weight: 700;
+--heading-text-large: 88rem;
+--heading-text-semilarge: 48rem;
+--heading-text-medium: 16rem;
+--heading-text-small: 13rem;
+--heading-text-transform: uppercase;
+--heading-text-align-01: center;
+--content-width-large:1025rem;
+--content-width-medium:600rem;
+--content-width-small:500rem;
+--text-center:center;
+--font-size-base: 13rem;
+--font-case-base: uppercase;
+
+--rs: 1px;
+--font-color-base: #111;
+--link-color-base: #111;
+--color-red: #cb0000;
+--bg-color: #f4f4f5;
+}
+
+@media screen and (max-width:1300px) {
+:root{--rs:calc(100vw / 1300);}
+}
+
+@media screen and (max-width:768px) {
+:root{--rs:calc(100vw / 768);}
+}
+
+@media screen and (max-width: 750px) {
+:root{--rs:calc(100vw / 750);}
+}
