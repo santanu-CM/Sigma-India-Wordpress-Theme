@@ -456,4 +456,4 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Change the theme name to WP Bootstrap Starter
 
 = 1.0 - Nov 13, 2016 =
-* Initial release
+* Initial release 
